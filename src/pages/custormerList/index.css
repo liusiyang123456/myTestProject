@@ -1,0 +1,16 @@
+.extraBox {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.extraBox > span {
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;
+}
+.topContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
